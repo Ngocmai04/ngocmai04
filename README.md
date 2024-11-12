@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm NgocMai</h1>
-- **I'm a student at Hanoi University of Science and Technology**
-- 🌱 **I’m currently learning IT**
-- ⚡ **I think I am funny**
+<br>
 
+-  I’m currently learning **IT**
+- 🌱 I'm a student at **Hanoi University of Science and Technology**
+
+  <br><br><br>
 <h2 align="left">💻 Programming Languages 💻</h2>
 <div align="left">
     <div>
@@ -10,7 +12,7 @@
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" height="25"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="25" height="25"/> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25"/>
-       <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" height="25" />
+        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" height="25" />
         <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" height="25" />
         <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="25" />
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" height="25" />
